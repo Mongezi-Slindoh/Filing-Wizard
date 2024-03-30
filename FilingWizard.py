@@ -1,6 +1,8 @@
-"""File Shuffler
+"""
+Filing Wizard
 BhunganeDev
-30 March 2024"""
+30 March 2024
+"""
 
 import os
 import shutil
